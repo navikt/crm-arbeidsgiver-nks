@@ -3,8 +3,8 @@
     <actionOverrides>
         <actionName>View</actionName>
         <comment>Action override created by Lightning App Builder during activation.</comment>
-        <content>TAG_NKS_EmployerDefaultRecordPage</content>
-        <formFactor>Small</formFactor>
+        <content>TAG_NKS_EmployerDefaultRecordPage1</content>
+        <formFactor>Large</formFactor>
         <skipRecordTypeSelect>false</skipRecordTypeSelect>
         <type>Flexipage</type>
         <pageOrSobjectType>Account</pageOrSobjectType>
@@ -12,8 +12,8 @@
     <actionOverrides>
         <actionName>View</actionName>
         <comment>Action override created by Lightning App Builder during activation.</comment>
-        <content>TAG_NKS_EmployerDefaultRecordPage</content>
-        <formFactor>Large</formFactor>
+        <content>TAG_NKS_EmployerDefaultRecordPage1</content>
+        <formFactor>Small</formFactor>
         <skipRecordTypeSelect>false</skipRecordTypeSelect>
         <type>Flexipage</type>
         <pageOrSobjectType>Account</pageOrSobjectType>
@@ -30,7 +30,7 @@
     <navType>Console</navType>
     <tabs>standard-Account</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>undefined_UtilityBar</utilityBar>
+    <utilityBar>NAV_Kontaktsenter_UtilityBar</utilityBar>
     <workspaceConfig>
         <mappings>
             <tab>standard-Account</tab>
